@@ -230,7 +230,7 @@ export default function Sidebar() {
             className="text-xl sm:text-2xl font-bold mb-4 sm:mb-6 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent"
             variants={itemVariants}
           >
-            Welcome to Clock App
+            Welcome to Tranquil App
           </motion.h2>
           <motion.p
             className="text-gray-300 mb-6 text-sm sm:text-base leading-relaxed"
@@ -260,7 +260,7 @@ export default function Sidebar() {
                 ☕
               </motion.div>
               <p className="text-amber-300 text-sm font-medium mb-1">
-                Love Clock App?
+                Love Tranquil App?
               </p>
               <p className="text-amber-200/70 text-xs mb-3">
                 Buy me a coffee to keep it running!
@@ -384,7 +384,7 @@ export default function Sidebar() {
                     ☕
                   </motion.div>
                   <p className="text-amber-300 text-sm font-medium mb-1">
-                    Enjoying Clock App?
+                    Enjoying Tranquil App?
                   </p>
                   <p className="text-amber-200/80 text-xs mb-2">
                     Fuel my coding sessions with coffee!
@@ -761,7 +761,7 @@ export default function Sidebar() {
                   backgroundSize: "200% 100%",
                 }}
               >
-                Clock App
+                Tranquil App
               </motion.h1>
               <motion.button
                 onClick={() => setIsOpen(false)}

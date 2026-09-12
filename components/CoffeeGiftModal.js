@@ -14,7 +14,7 @@ import {
 import toast from "react-hot-toast";
 
 export default function CoffeeGiftModal({ onClose }) {
-  const QR_CODE_IMAGE = "/puru.jpg";
+  const QR_CODE_IMAGE = "/kunal.png";
   const UPI_ID = "puru0222@ptaxis";
 
   const copyUPIId = () => {
@@ -123,7 +123,7 @@ export default function CoffeeGiftModal({ onClose }) {
           {/* Thank you message */}
           <div className="text-center mb-4">
             <p className="text-gray-300 text-sm leading-relaxed">
-              Hey there! ☕ If you are enjoying the Clock App, consider buying
+              Hey there! ☕ If you are enjoying the Tranquil App, consider buying
               me a coffee! It helps me stay caffeinated while building{" "}
               <span className="text-green-400 font-semibold">free</span> and
               <span className="text-blue-400 font-semibold"> awesome</span> apps

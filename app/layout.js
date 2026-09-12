@@ -2,8 +2,8 @@ import "./globals.css";
 import { Toaster } from "react-hot-toast";
 
 export const metadata = {
-  title: "Clock",
-  description: "A beautiful clock app with friend notifications",
+  title: "Tranquil",
+  description: "A beautiful tranquil app with friend notifications",
 };
 
 export default function RootLayout({ children }) {
