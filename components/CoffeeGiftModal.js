@@ -15,7 +15,7 @@ import toast from "react-hot-toast";
 
 export default function CoffeeGiftModal({ onClose }) {
   const QR_CODE_IMAGE = "/kunal.png";
-  const UPI_ID = "puru0222@ptaxis";
+  const UPI_ID = "kunal1512@ptyes";
 
   const copyUPIId = () => {
     navigator.clipboard.writeText(UPI_ID);
